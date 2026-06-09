@@ -1,0 +1,28 @@
+# Ignore everything outside this folder
+../
+
+# Maven / Gradle build output
+target/
+build/
+*.class
+
+# IntelliJ project files
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# OS files
+.DS_Store
+desktop.ini
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment variables
+.env
+.env.*
+
+# Node (in case)
+node_modules/
